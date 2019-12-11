@@ -21,10 +21,10 @@
         "template"
     ],
     "dependencies": {
-        "through": "^2.3.4",
-        "gulp-util": "^2.2.5",
+        "MD5": "^1.2.1",
         "closure-templates": "20130416.0.0",
-        "MD5": "^1.2.1"
+        "gulp-util": "^3.0.8",
+        "through": "^2.3.4"
     },
     "devDependencies": {
         "mocha": "*",
